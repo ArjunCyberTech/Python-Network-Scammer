@@ -11,6 +11,7 @@ python3 network_scanner.pyc --help
 or
 
 chmod 777 network_scanner.pyc
+
 ./network_scanner.pyc
 
 _Scan the network_
