@@ -6,14 +6,18 @@ This script is work on python2 and python3 both and scan the network and given c
 
 _See Help_
 
-python network_scanner.py --help
+python3 network_scanner.pyc --help
 
+or
+
+chmod 777 network_scanner.pyc
+./network_scanner.pyc
 
 _Scan the network_
 
-python network_scanner.py -t gateway_ip/24
+python networ3k_scanner.pyc -t gateway_ip/24
 
 
 **For Example**
 
-python network_scanner.py -t 192.168.0.1/24
+python3 network_scanner.pyc -t 192.168.0.1/24
